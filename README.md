@@ -3,7 +3,7 @@
 Automação que monitora pushes no repo e notifica via WhatsApp/Telegram.
 
 ## Demo
-![Execução]([executions.png]([https://syspixel.cloud/wp-content/uploads/2026/01/Webhook-ativo.png]))
+![Execução](https://syspixel.cloud/wp-content/uploads/2026/01/Webhook-ativo.png)
 
 ## Setup
 1. Importa JSON no n8n.
@@ -15,4 +15,4 @@ Automação que monitora pushes no repo e notifica via WhatsApp/Telegram.
 - GitHub Webhooks
 - Docker/Coolify deploy
 
-Link n8n: [https://n8n.syspixel.cloud/workflow/OQuYfw3cufSfW0o7]
+**Link n8n:** https://n8n.syspixel.cloud/workflow/OQuYfw3cufSfW0o7
