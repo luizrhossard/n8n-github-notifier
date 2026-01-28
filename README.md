@@ -15,4 +15,4 @@ Automação que monitora pushes no repo e notifica via WhatsApp/Telegram.
 - GitHub Webhooks
 - Docker/Coolify deploy
 
-**Link n8n:** https://n8n.syspixel.cloud/workflow/OQuYfw3cufSfW0o7
+
