@@ -7,7 +7,7 @@ Automação que monitora pushes no repo e notifica via WhatsApp/Telegram.
 
 ## 📰 Workflow: Download de Notícias para Meu Site
 
-Este repositório contém um workflow do n8n responsável por fazer o **download automático de notícias** a partir de fontes externas e deixá-las prontas para publicação no meu site. A ideia é transformar um processo manual e repetitivo em uma automação confiável, fácil de manter e versionada no GitHub [web:4][web:12].
+Este repositório contém um workflow do n8n responsável por fazer o **download automático de notícias** a partir de fontes externas e deixá-las prontas para publicação no meu site. A ideia é transformar um processo manual e repetitivo em uma automação confiável, fácil de manter e versionada no GitHub.
 
 ### O que este workflow faz
 
