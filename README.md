@@ -3,7 +3,7 @@
 Automação que monitora pushes no repo e notifica via WhatsApp/Telegram.
 
 ## Demo
-![Execução](https://syspixel.cloud/wp-content/uploads/2026/01/Webhook-ativo.png)
+![Execução](https://syspixel.cloud/wp-content/uploads/2026/04/n8n.png)
 
 ## Setup
 1. Importa JSON no n8n.
