@@ -11,22 +11,22 @@ Este repositório contém um workflow do n8n responsável por fazer o **download
 
 ### O que este workflow faz
 
-- Consulta fontes de notícias (API, RSS ou páginas HTML configuradas no n8n) [web:6][web:5]  
+- Consulta fontes de notícias (API, RSS ou páginas HTML configuradas no n8n)
 - Faz o tratamento dos dados (título, resumo, link, data, imagem, etc.)  
 - Normaliza o conteúdo no formato que o meu site espera (JSON ou outro formato estruturado)  
-- Opcionalmente registra logs/erros para facilitar o debug e a evolução da automação [web:9][web:12]
+- Opcionalmente registra logs/erros para facilitar o debug e a evolução da automação 
 
 ### Objetivo do projeto
 
 - Manter meu site sempre atualizado com notícias recentes, sem precisar copiar e colar conteúdo na mão  
-- Versionar o workflow no GitHub para ter histórico de mudanças, backup e possibilidade de evolução em equipe no futuro [web:4][web:8]  
+- Versionar o workflow no GitHub para ter histórico de mudanças, backup e possibilidade de evolução em equipe no futuro 
 
 ### Como usar
 
-1. Importe o arquivo `.json` deste repositório no seu n8n (função de import de workflow) [web:6]  
-2. Configure as credenciais necessárias (APIs de notícias, banco de dados, webhook ou integração com o seu CMS) [web:5][web:13]  
+1. Importe o arquivo `.json` deste repositório no seu n8n (função de import de workflow) 
+2. Configure as credenciais necessárias (APIs de notícias, banco de dados, webhook ou integração com o seu CMS)   
 3. Ajuste os nodes de acordo com a estrutura do seu site  
-4. Ative o workflow e defina a frequência de execução (cron ou outro gatilho) [web:12][web:15]
+4. Ative o workflow e defina a frequência de execução (cron ou outro gatilho) 
 
 ---
 
